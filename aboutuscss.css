@@ -1,0 +1,67 @@
+main-header h1 {
+    text-align: center;
+}
+.header img {
+    float: center;
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+}
+.header h1 {
+    position: center;
+    top: 18px;
+    left: 10px;
+}
+#body {
+    width: 600px;
+    background-color: slategray;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 5px;
+    padding: 20px;
+}
+#left {
+    margin-top: -390px;
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+}
+.img logo {
+    width: 100px;
+    margin: 0px;
+    display: inline-block;
+}
+.sidebar {
+    padding: 20px;
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+.sidebar-links {
+
+    list-style-type: none;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: #CCC;
+ }
+ span.logo {
+                color: blue;
+ }
+.copyright {
+    color: blue;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 0px;
+}
+.box-shadow {
+    box-shadow: inset 0px 0px 50px 0px #ABABAB, 1px 1px 5px 1px #242424;
+    -webkit-box-shadow: inset 0px 0px 50px 0px #ABABAB, 1px 1px 5px 1px #242424;
+    -moz-box-shadow: inset 0px 0px 50px 0px #ABABAB, 1px 1px 5px 1px #242424;
+    -o-box-shadow: inset 0px 0px 50px 0px #ABABAB, 1px 1px 5px 1px #242424;
+}
